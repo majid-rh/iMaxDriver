@@ -1,0 +1,4 @@
+nodes_file_name=LUSC_nodes.csv
+edges_file_name=LUSC_edges.csv
+alpha=0.14
+number_of_executions=2
